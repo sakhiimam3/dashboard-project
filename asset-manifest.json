@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dashboard-project/static/css/main.d5a3b019.chunk.css",
+    "main.js": "/dashboard-project/static/js/main.993082c5.chunk.js",
+    "main.js.map": "/dashboard-project/static/js/main.993082c5.chunk.js.map",
+    "runtime-main.js": "/dashboard-project/static/js/runtime-main.9659cbad.js",
+    "runtime-main.js.map": "/dashboard-project/static/js/runtime-main.9659cbad.js.map",
+    "static/css/2.9d3fae2a.chunk.css": "/dashboard-project/static/css/2.9d3fae2a.chunk.css",
+    "static/js/2.c0caef3a.chunk.js": "/dashboard-project/static/js/2.c0caef3a.chunk.js",
+    "static/js/2.c0caef3a.chunk.js.map": "/dashboard-project/static/js/2.c0caef3a.chunk.js.map",
+    "index.html": "/dashboard-project/index.html",
+    "precache-manifest.a2d1a7c3c81e151996577c8221885939.js": "/dashboard-project/precache-manifest.a2d1a7c3c81e151996577c8221885939.js",
+    "service-worker.js": "/dashboard-project/service-worker.js",
+    "static/css/2.9d3fae2a.chunk.css.map": "/dashboard-project/static/css/2.9d3fae2a.chunk.css.map",
+    "static/css/main.d5a3b019.chunk.css.map": "/dashboard-project/static/css/main.d5a3b019.chunk.css.map",
+    "static/js/2.c0caef3a.chunk.js.LICENSE.txt": "/dashboard-project/static/js/2.c0caef3a.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/dashboard-project/static/media/fa-solid-900.d824df7e.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9659cbad.js",
+    "static/css/2.9d3fae2a.chunk.css",
+    "static/js/2.c0caef3a.chunk.js",
+    "static/css/main.d5a3b019.chunk.css",
+    "static/js/main.993082c5.chunk.js"
+  ]
+}
